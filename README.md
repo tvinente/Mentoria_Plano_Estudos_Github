@@ -22,7 +22,7 @@ Meta para Janeiro:
 - [ ] Fazer o curso 2
 
 Task para continuar o aprimoramento:
-- [ ] Começar a estudar Java
+- [x] Começar a estudar Java
 - [ ] Assistir ao curso
 - [ ] Fazer os desafios de projeto
 - [ ] Refazer sozinho
